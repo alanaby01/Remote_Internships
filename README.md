@@ -6,6 +6,8 @@ This repo will be used to gather information regarding remote internship oppurtu
 
 https://hr.allincall.in/hr-manager/careers/
 
+<img src="images/aman_goyle.jpeg">
+
 ## 2.CovIntern
 https://covintern.com/jobs/
 
