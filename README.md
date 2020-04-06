@@ -6,5 +6,6 @@ This repo will be used to gather information regarding remote internship oppurtu
 
 https://hr.allincall.in/hr-manager/careers/
 
-## 2.This ap deals with all remote internship oppurtunities in and around the world. Take a look.
+## 2.CovIntern
 https://covintern.com/jobs/
+All details of remote internship oppurtunities are given here in the website take a look.
