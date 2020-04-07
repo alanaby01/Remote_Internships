@@ -12,3 +12,11 @@ https://hr.allincall.in/hr-manager/careers/
 https://covintern.com/jobs/
 
 All details of remote internship oppurtunities are given here in the website take a look.
+
+## HelloIntern
+
+https://www.hellointern.com/
+
+Find internships from technology to management across India in this website.
+
+Hope it helps!
